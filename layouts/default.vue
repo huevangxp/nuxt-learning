@@ -106,6 +106,26 @@ export default {
           icon: 'mdi-chart-bubble',
           title: 'Inspire',
           to: '/inspire'
+        },
+        {
+          icon: 'mdi-pen',
+          title: 'Image Input',
+          to: '/image'
+        },
+        {
+          icon: 'mdi-shap',
+          title: 'Image multiple',
+          to: '/image/multiple'
+        },
+        {
+          icon: 'mdi-account',
+          title: 'country',
+          to: '/country'
+        },
+        {
+          icon: 'mdi-account',
+          title: 'qr code',
+          to: '/qrcode'
         }
       ],
       miniVariant: false,
